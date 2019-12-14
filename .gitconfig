@@ -5,4 +5,8 @@
     required = true
 
 [user]
-    
+    name = WENG-CHENG-CHIH
+    email = aaa021030@gmail.com
+
+[alias]
+    st status
